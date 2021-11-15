@@ -125,3 +125,10 @@ body {
   box-shadow: 35px -35px 0 10px var(--white);
   pointer-events: none;
 }
+
+/*--------------Main----------------*/
+
+.main {
+    position: absolute;
+    width: calc(100% - 300px); /* 300px - width of the navigatoin blue bar */
+}
