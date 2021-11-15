@@ -131,4 +131,7 @@ body {
 .main {
     position: absolute;
     width: calc(100% - 300px); /* 300px - width of the navigatoin blue bar */
+    left: 300px;
+    min-height: 100vh;
+    background: var(--white);
 }
