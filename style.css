@@ -153,4 +153,7 @@ body {
   height: 60px;
   background: #ccc;
   display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.5em;
 }
