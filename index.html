@@ -112,6 +112,10 @@
       let navigation = document.querySelector('.navigation');
       let main = document.querySelector('.main');
 
+      toggle.onclick = function() {
+        navigation.classList.toggle('active');
+      }
+
       // add a 'hovered' class in the selected list item
       let list = document.querySelectorAll('.navigation li');
       function activeLink() {
