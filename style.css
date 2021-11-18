@@ -213,3 +213,8 @@ body {
   height: 100%;
   object-fit: cover;
 }
+
+.cardBox {
+  position: relative;
+  width: 100%;
+}
