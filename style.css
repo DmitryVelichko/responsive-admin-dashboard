@@ -231,7 +231,7 @@ body {
   display: flex;
   justify-content: space-between;
   cursor: pointer;
-  box-shadow: 0 7px 25px rgba(0,0,0,0.08);
+  box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
 }
 
 .cardBox .card .numbers {
@@ -249,4 +249,9 @@ body {
 
 .cardBox .card .iconBx {
   font-size: 3.5em;
+  color: var(--black2);
+}
+
+.cardBox .card:hover {
+  background: var(--blue);
 }
