@@ -255,3 +255,8 @@ body {
 .cardBox .card:hover {
   background: var(--blue);
 }
+
+
+.cardBox .card:hover .iconBx {
+  color: var(--white);
+}
