@@ -261,3 +261,9 @@ body {
 .cardBox .card:hover .iconBx {
   color: var(--white);
 }
+
+.details {
+  position: relative;
+  width: 100%;
+  padding: 20px;
+}
