@@ -292,3 +292,8 @@ body {
   font-weight: 600;
   color: var(--blue);
 }
+
+.btn {
+  position: relative;
+  padding: 5px 10px;
+}
