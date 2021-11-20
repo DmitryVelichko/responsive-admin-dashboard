@@ -276,5 +276,7 @@ body {
   position: relative;
   display: grid;
   min-height: 500px;
+  background: var(--white);
+  padding: 20px;
   
 }
