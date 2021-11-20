@@ -274,4 +274,7 @@ body {
 
 .details .recentOrders {
   position: relative;
+  display: grid;
+  min-height: 500px;
+  
 }
