@@ -341,3 +341,9 @@ body {
 .details .recentOrders table tr td:nth-child(3) {
   text-align: center;
 }
+
+.status.delivered {
+  padding: 2px 4px;
+  background: #8de02c;
+  
+}
