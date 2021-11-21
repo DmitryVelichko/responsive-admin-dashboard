@@ -345,5 +345,6 @@ body {
 .status.delivered {
   padding: 2px 4px;
   background: #8de02c;
-  
+  color: var(--white);
+  border-radius: 4px;
 }
