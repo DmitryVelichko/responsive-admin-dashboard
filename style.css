@@ -369,3 +369,9 @@ body {
   font-weight: 500;
 }
 
+.status.inprogress {
+  padding: 2px 4px;
+  background: #1795ce;
+  
+}
+
