@@ -350,3 +350,8 @@ body {
   font-size: 14px;
   font-weight: 500;
 }
+
+.status.pending {
+  padding: 2px 4px;
+  background: #f00;
+}
