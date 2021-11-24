@@ -428,3 +428,9 @@ body {
 .recentCustomers table tr:hover td h4 span {
   color: var(--white);
 }
+
+@media (max-width: 991px) {
+  .navigation {
+    left: -300px;
+  }
+}
