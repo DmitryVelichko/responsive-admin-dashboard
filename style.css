@@ -422,4 +422,5 @@ body {
 
 .recentCustomers table tr td h4 span {
   font-size: 14px;
+  color: var(--black2);
 }
