@@ -438,4 +438,8 @@ body {
     width: 100%;
     left: 0;
   }
+
+  .main.active {
+    left: 300px;
+  }
 }
