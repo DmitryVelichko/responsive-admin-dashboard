@@ -409,3 +409,7 @@ body {
   background: var(--blue);
   color: var(--white);
 }
+
+.recentCustomers table tr td {
+  padding: 12px 10px;
+}
