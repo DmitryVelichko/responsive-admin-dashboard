@@ -433,4 +433,9 @@ body {
   .navigation {
     left: -300px;
   }
+
+  .main {
+    width: 100%;
+    left: 0;
+  }
 }
