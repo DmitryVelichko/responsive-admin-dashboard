@@ -472,4 +472,13 @@ body {
   .cardHeader h2 {
     font-size: 20px;
   }
+
+  .user {
+    min-width: 40px;
+  }
+
+  .navigation {
+    width: 100%;
+    left: -100%;
+  }
 }
