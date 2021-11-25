@@ -447,4 +447,8 @@ body {
   .main.active {
     left: 300px;
   }
+
+  .cardBox {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
