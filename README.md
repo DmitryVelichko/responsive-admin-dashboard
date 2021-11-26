@@ -1,3 +1,3 @@
 ### Responsive Admin Dashboard built with HTML, CSS and JavaScript.
 
-https://dmitryvelichko.github.io/responsive-admin-dashboard/
+Check out the live version of the webstie: https://dmitryvelichko.github.io/responsive-admin-dashboard/
